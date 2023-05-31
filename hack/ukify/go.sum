@@ -136,6 +136,8 @@ github.com/russross/blackfriday v1.5.2/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR
 github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/saferwall/pe v1.4.2 h1:Vzustn1KS7uHvh6gpWfSlmgZbkWFNxEKHV0DOSuCV50=
 github.com/saferwall/pe v1.4.2/go.mod h1:SNzv3cdgk8SBI0UwHfyTcdjawfdnN+nbydnEL7GZ25s=
+github.com/saferwall/pe v1.4.3 h1:Z8+tkRNCnUIMFdVXfkWMPfHuKucvxa2r+g/Ko5sKOVQ=
+github.com/saferwall/pe v1.4.3/go.mod h1:SNzv3cdgk8SBI0UwHfyTcdjawfdnN+nbydnEL7GZ25s=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/siderolabs/crypto v0.4.0 h1:o1KIR1KyevUcY9nbJlSyQAj7+p+rveGGF8LjAAFMtjc=
 github.com/siderolabs/crypto v0.4.0/go.mod h1:itZpBsJ9i0aH8jiHAuSlKCal7hni7X1aDYo6vGVl5LY=
@@ -143,6 +145,8 @@ github.com/siderolabs/go-procfs v0.1.1 h1:GkKjnDfFkupcuLN0w6A/Oy58/8FPAHcmlgiHIa
 github.com/siderolabs/go-procfs v0.1.1/go.mod h1:byGwc3MfF65wg1mz8t3qQ1zlrYhMngEYh1eDzaFAYq0=
 github.com/siderolabs/talos v1.4.4 h1:S09NZ+1lf81O2m3ui5C2e2s5eU1UaBH04tNj9HH4b/M=
 github.com/siderolabs/talos v1.4.4/go.mod h1:wHI43aCA5pf596PO/rOvtXS6hDDTgB1ffmuXDQRWfEU=
+github.com/siderolabs/talos v1.4.5 h1:zFOZwZ6a2wOnLPyWYWXQggnfkAB8syJQzOia7Tg0FMg=
+github.com/siderolabs/talos v1.4.5/go.mod h1:v3RBzw5NlopKUgeRBeRMGWSowQDiOJck63JEb67U/NY=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/soheilhy/cmux v0.1.4/go.mod h1:IM3LyeVVIOuxMH7sFAkER9+bJ4dT7Ms6E4xg4kGIyLM=
 github.com/spaolacci/murmur3 v0.0.0-20180118202830-f09979ecbc72/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2Kzu9HwQUA=
@@ -264,6 +268,8 @@ google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55/go.mod h1:DMBHOl98
 google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013/go.mod h1:NbSheEEYHJ7i3ixzK3sjbqSGDJWnxyFXZblF3eUsNvo=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 h1:0nDDozoAU19Qb2HwhXadU8OcsiO/09cnTqhUtq2MEOM=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19/go.mod h1:66JfowdXAEgad5O9NnYcsNPLCPZJD++2L9X0PCMODrA=
+google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc h1:XSJ8Vk1SWuNr8S18z1NZSziL0CPIXLCCMDOEFtHBOFc=
+google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc/go.mod h1:66JfowdXAEgad5O9NnYcsNPLCPZJD++2L9X0PCMODrA=
 google.golang.org/grpc v1.19.0/go.mod h1:mqu4LbDTu4XGKhr4mRzUsmM4RtVoemTSY81AxZiDr8c=
 google.golang.org/grpc v1.21.0/go.mod h1:oYelfM1adQP15Ek0mdvEgi9Df8B9CZIaU1084ijfRaM=
 google.golang.org/grpc v1.23.0/go.mod h1:Y5yQAOtifL1yxbo5wqy6BxZv8vAUGQwXBOALyacEbxg=

@@ -16,7 +16,7 @@ require (
 	github.com/hashicorp/go-version v1.6.0
 	github.com/jsimonetti/rtnetlink v1.3.3
 	github.com/mdlayher/ethtool v0.0.0-20221212131811-ba3b4bc2e02c
-	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
+	github.com/opencontainers/runtime-spec v1.1.0-rc.2.0.20230522134310-720792f25ae6
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.0
 	github.com/siderolabs/crypto v0.4.0
@@ -27,8 +27,8 @@ require (
 	github.com/siderolabs/go-pointer v1.0.0
 	github.com/siderolabs/net v0.4.0
 	github.com/siderolabs/protoenc v0.2.0
-	github.com/stretchr/testify v1.8.3
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19
+	github.com/stretchr/testify v1.8.4
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc
 	google.golang.org/grpc v1.55.0
 	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v3 v3.0.1
